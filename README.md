@@ -1,5 +1,3 @@
-<img width="1801" height="727" alt="image" src="https://github.com/user-attachments/assets/006c7f8d-137a-450a-9fe0-466456701f45" />
-
 🎙️ Voice Lab (상황 맞춤형 AI 스피치 분석 시스템)
 FastAPI와 React를 기반으로 구축된 풀스택 웹 애플리케이션입니다. 사용자의 음성을 입력받아 음향적 특성(Prosody)과 발화 구조(NLP)를 다각도로 분석한 뒤, 면접·발표·일반 대화 등 상황에 최적화된 피드백을 제공합니다.
 
