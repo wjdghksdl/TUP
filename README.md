@@ -1,13 +1,9 @@
 # 🤝 TUP - 공모전 팀 매칭 서비스 플랫폼
 
-<img width="2752" height="1536" alt="Gemini_Generated_Image_67u2ue67u2ue67u2" src="https://github.com/user-attachments/assets/3778088d-f0c1-4cbf-aa52-7867167f1d2a" />
-
 
 > **희망 공모전, 역할군(포지션), 기술 스택을 기반으로 공모전 팀원을 매칭해주는 웹 서비스입니다.** 단순한 게시판 형태의 구인을 넘어, 랜덤 자동 매칭(AutoTeamUp)과 조건 기반 수동 매칭(OpenTeamUp) 두 가지 방식을 제공하고, 양측의 동의/승인을 거쳐 팀을 확정하는 팀 빌딩 경험을 제공합니다.
 
-<p align="center">
-  <img src="docs/images/hero.png" alt="TUP 메인 화면" width="100%">
-</p>
+<img width="2752" height="1536" alt="Gemini_Generated_Image_67u2ue67u2ue67u2" src="https://github.com/user-attachments/assets/3778088d-f0c1-4cbf-aa52-7867167f1d2a" />
 
 ## 🛠 Tech Stack
 
